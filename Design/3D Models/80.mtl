@@ -1,0 +1,30 @@
+﻿
+newmtl Material-0
+Kd 0.7 0.7 0.7 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+
+newmtl Paint - Enamel Glossy (Grey)
+Kd 0.701961 0.701961 0.701961 
+Ka 0 0 0 
+Ks 1 1 1 
+d 1
+
+newmtl Paint - Enamel Glossy (Black)
+Kd 0.0980392 0.0980392 0.0980392 
+Ka 0 0 0 
+Ks 1 1 1 
+d 1
+
+newmtl Paint - Enamel Glossy (White)
+Kd 0.964706 0.964706 0.952941 
+Ka 0 0 0 
+Ks 1 1 1 
+d 1
+
+newmtl Paint - Enamel Glossy (Red)
+Kd 0.768627 0.207843 0.152941 
+Ka 0 0 0 
+Ks 1 1 1 
+d 1

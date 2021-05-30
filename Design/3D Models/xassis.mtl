@@ -1,0 +1,36 @@
+﻿
+newmtl Material-0
+Kd 0.7 0.7 0.7 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+
+newmtl Polycarbonate (Clear)
+Kd 0.964706 0.964706 0.952941 
+Ka 0 0 0 
+Ks 1 1 1 
+d 0.5
+
+newmtl Steel - Satin
+Kd 0.627451 0.627451 0.627451 
+Ka 0 0 0 
+Ks 1 1 1 
+d 1
+
+newmtl Opaque(76,76,76)
+Kd 0.298039 0.298039 0.298039 
+Ka 0 0 0 
+Ks 1 1 1 
+d 1
+
+newmtl Paint - Metal Flake (Black)
+Kd 0.0980392 0.0980392 0.0980392 
+Ka 0 0 0 
+Ks 1 1 1 
+d 1
+
+newmtl Plastic - Translucent Matte (Green)
+Kd 0.266667 0.588235 0.282353 
+Ka 0 0 0 
+Ks 1 1 1 
+d 1
